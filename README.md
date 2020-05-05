@@ -1,7 +1,7 @@
 # process_killer
 A Python script to kill a process running on a Windows PC
 
-# Steps:
+## Steps:
 1. Run the script through the command prompt with elevated privilege:\
 C:\Users\user>python ProcKiller.py
 
